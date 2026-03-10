@@ -10,7 +10,7 @@ const HelloWorld: React.FC = () => {
 
   return (
     <div className='text-center'>
-      <h1 className='text-3xl font-bold text-blue-500'>Hello, Türkiye!</h1>
+      <h1 className='text-3xl font-bold text-blue-500'>Hello, Aybar!</h1>
       <p className='mt-4 text-xl'>Count: {count}</p>
       <Button label='Increment' onClick={incrementCount} />
     </div>
